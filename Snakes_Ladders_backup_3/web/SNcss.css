@@ -1,0 +1,319 @@
+/* 
+    Document   : SNcss
+    Created on : Mar 7, 2013, 5:47:43 PM
+    Author     : Kalyan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+    background-image: url('images/sn1.jpg');
+}
+
+#mainhead
+{
+    font-family: 'Comic Andy';
+    color: white;
+    font-size: 100pt;
+    margin-left: 280px;
+}
+
+
+.tablecss table
+{
+    width: 422px;
+    height:422px;
+    background-repeat: no-repeat;
+    position: relative;
+    float: left;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.tablecss td
+{
+    width:38px;
+    height: 36px;
+}
+
+.playercss table
+{
+    float: right;
+    
+    margin-right: 130px;
+    margin-top: 50px;
+}
+
+.playercss td
+{
+    width: 10px;
+    text-align: center;
+    font-family: 'Fabrica',serif;
+    color: white;
+}
+
+.playercss button
+{
+    width: 150px;
+    height:30px;
+   float:right;
+    margin-right: 190px;
+    margin-top: 20px;
+    font-family: 'Fabrica',serif;
+}
+
+.playercss img
+{
+    width:60px;
+    height: 60px;
+    margin-left:90px;
+    margin-top: 120px;
+    border-radius: 5px;
+}
+
+
+form input
+{
+    font-family: 'Fabrica';
+    width: 200px;
+    height: 30px;
+}
+
+body p
+{
+    font-family: 'Fabrica';
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+.loginimg img
+{
+   width: 8%;
+   height: 8%;
+   float: left;
+   border-radius: 10px;
+   margin-top: -20px;
+   margin-left: 80px;
+}
+
+.regimg img
+{
+   width: 8%;
+   height: 8%;
+   float: left;
+   border-radius: 10px;
+   margin-top: -20px;
+   margin-left: 80px;
+}
+
+.howimg img
+{
+   width: 8%;
+   height: 8%;
+   float: left;
+   border-radius: 10px;
+   margin-top: -20px;
+   margin-left: 80px;
+}
+
+.aboutimg img
+{
+   width: 8%;
+   height: 8%;
+   float: left;
+   border-radius: 10px;  
+   margin-top: -20px;
+   margin-left: 80px;
+}
+
+.createimg img
+{
+   width: 8%;
+   height: 8%;
+   float: left;
+   border-radius: 10px;  
+   margin-top: -20px;
+   margin-left: 80px;
+}
+.joinimg img
+{
+   width: 8%;
+   height: 8%;
+   float: left;
+   border-radius: 10px;  
+   margin-top: -20px;
+   margin-left: 80px;
+}
+.contimg img
+{
+   width: 8%;
+   height: 8%;
+   float: left;
+   border-radius: 10px;  
+   margin-top: -20px;
+   margin-left: 80px;
+}
+
+nav
+{
+    padding: auto auto auto auto;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+nav a
+{
+    padding: 0 40px 0 40px;
+    font-family: 'Fabrica',serif;
+    font-size: 12pt;
+    text-decoration: none;
+    color:white;
+}
+
+#heading
+{
+    font-family: 'Ashcan BB',serif;
+    text-align: center;
+    color: white;
+}
+
+.contdetails
+{
+  margin-top: 60px;
+}
+
+.contdetails p
+{
+    font-size: 10pt;
+}
+
+.contdetails p:nth-child(5)
+{
+    margin-top: 90px;
+}
+.fb img
+{
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+.gplus img
+{
+    width: 5%;
+    height: 5%;
+    float: left;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+.twit img
+{
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+
+.logincss
+{
+    margin-top: 80px;
+}
+.logincss p
+{
+    font-size: 12pt;
+}
+
+.logincss td
+{
+    text-align: center;
+    width: 200px;
+}
+
+.logincss fieldset
+{
+    font-family: 'Fabrica',serif;
+    color: white;
+    width: 50%;
+}
+
+.formcss td
+{
+    text-align: center;
+    width: 200px;
+    height: 10px;
+}
+
+.formcss fieldset
+{
+    margin-top: 60px;
+    width: 80%;
+    color: white;
+    font-family: 'Fabrica',serif;
+}
+
+.formcss form select
+{
+    width: 200px;
+}
+
+.formcss form textarea
+{
+    width: 200px;
+}
+
+.formcss form button
+{
+    font-family: 'Fabrica';
+}
+
+.formcss fieldset a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.mainpar
+{
+    float: left;
+    margin-left: 140px;
+    width: 55%;
+    
+    
+}
+
+.mainpar p,h2
+{
+    font-family: 'Fabrica';
+    font-size: 10pt;
+    color:white;
+}
+.mainimgcss
+{
+    float:right;
+    margin-right: 30px;
+    margin-top: 40px;
+    
+}
+
+.instcss p
+{
+    font-size: 12pt;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+
+.instcss img
+{
+    border-radius: 10px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">npuzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="select_image">Please selct your desired image</string>
+    <string name="home_message">Welcome to n-puzzle</string>
+    <string name="score">Scores</string>
+    <string name="start">Start</string>
+    <string name="quit">Quit</string>
+    <string name="logotext">Android Logo</string>
+    <string name="guide">Guide</string>
+    <string name="instructions">Instructions</string>
+    <string name="instruction1">1. After you start the game select a desired image you like.</string>
+    <string name="instruction2">2. After image selection a pop-up will apeear which will ask you to select a level (Easy, Medium, Hard).</string>
+    <string name="instruction3">3. Now the game start which will shuffle the contents.</string>
+    <string name="instruction4">4. Reconstruct the image and get prizes.</string>
+    <string name="back">Back</string>
+    <string name="sound">Sound ON/OFF</string>
+    <string name="name">Enter Your Name</string>
+    <string name="save">Save Changes</string>
+    <string name="difficultylevel">Easy</string>
+    <string name="scores">High Scores</string>
+
+</resources>

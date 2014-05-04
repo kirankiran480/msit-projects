@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : Rejuvinates 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20130209
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>register</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if IE 6]>
+<link href="default_ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script src = "register.js" ></script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="index.html"><span style="font-family: 'Monotype Corsiva', Magneto, Magneto; font-weight: normal; font-style: italic; text-decoration: none; font-size: 40pt;"><font color="#FFFFFF">SNAKES AND LADDERS</font></span></a></h1>
+			<br>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu-wrapper">
+		<div class="ribbon ribbon-content">
+			<div id="menu" align : "right">
+				<ul>
+					<li class="current_page_item"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About game</font></a></li>
+                                        <li><a  align ="right" href="login.html" >Login</a></li>
+					<li><a href="registration.html">Registration</a></li>
+					<li><a href="rules.html">Rules</a></li>
+					<li><a href="sesschech_create">Create New</a></li>
+					<li><a href="sesschck_join">Join Game</a></li>
+                                        <li><a href="signout">Sign Out</a></li>
+					<li class="last"><a href="construct.html"><font size="3">Contact us </a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+  
+  <hr />
+  <form  name = 'register' onsubmit = "return validateForm()" align = "center" action="http:////localhost:8084//WebApplication2//registerval" method="post">
+  <fieldset>
+  <legend align ="center">Registration</legend>
+  <table align="center" width="500" border="0" cellspacing="0" cellpadding="0" class="tbl_bg">
+<tr>
+ 	<td colspan="2" valign="top" class="altalt" align="center">
+First name    : </td><td><input type="text" name="firstname"><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Last name     : </td><td><input type="text" name="lastname"><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+    Login name    : </td><td><input type="text" name="login" onkeyup="onloadxml();" ><br></td>
+                <td>
+                    <select id="myspan"></select>
+                </td>    
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Date of birth : </td><td>
+<input type = "date" name = "dob" value = "dob">
+<br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Gender        : </td><td>
+ <input type="radio" name = "sex" value ="male">Male 
+ <input type="radio" name = "sex" value ="female">Female
+ <input type="radio" name = "sex" value ="others">Others<br></td>
+ </tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+E-mail        : </td><td><input type="text" name="mail" ><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Password      : </td><td><input type= "password" name ="pwd"><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Re-type       : </td><td><input type ="password" name ="pwd1"><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Address       : </td><td><textarea align= "right" align = "down" name="address" rows="3" cols="9"></textarea><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Secret question : </td><td><select name="secret" value = "select a question">
+  <option> select a question </option>
+  <option value="home">What is your mothers hometown?</option>
+  <option value="school">What is your first school?</option>
+      <option value="book">What is the first book?</option>
+
+</select><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Answer        : </td><td><input type="answer" name = "answer" ><br></td>
+</tr><tr>
+<td colspan="2" valign="top" class="altalt" align="center">
+Alternate E-mail        : </td><td><input type="text" name="altmail" ><br></td>
+</tr><tr>
+<td ></td>
+<td colspan="2" valign="top" class="altalt" align="center">
+<br>
+<br>
+<input align = "center" type="submit" name="submit" value="submit">
+</td></tr>
+</fieldset>
+</form>
+  </body>
+</html>

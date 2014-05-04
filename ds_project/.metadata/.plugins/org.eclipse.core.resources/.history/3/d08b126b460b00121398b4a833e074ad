@@ -1,0 +1,126 @@
+package searchengine.search;
+
+import java.awt.Container;
+import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Vector;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JTextArea;
+import searchengine.dictionary.ObjectIterator;
+//import searchengine.Dictionary.ObjectIterator;
+import searchengine.indexer.Indexer;
+
+public class SearchDriver {
+	public static void main(String [] args)
+	{
+        JFrame frame= new JFrame();
+        JLabel lable = new JLabel();
+        Container contentPane = frame.getContentPane();
+        contentPane.setLayout(new FlowLayout());
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        final JTextArea ta = new JTextArea(5,30);
+        frame.getContentPane().setLayout(new FlowLayout());
+        final JTextArea tf = new JTextArea(30,40);
+        JButton button = new JButton("Search");
+        frame.getContentPane().add(ta);
+        frame.getContentPane().add(button);
+        frame.getContentPane().add(tf);
+        lable.setHorizontalTextPosition(10);
+        lable.setText("google");
+        button.addActionListener(new ActionListener(){
+            @SuppressWarnings({ })
+			@Override
+        public void actionPerformed(ActionEvent e)
+            {
+            	Vector<String> v=new Vector<String>();
+            	Indexer w = null;
+            	FileInputStream indexSource = null;
+            	w = new Indexer("hash");
+				try {
+					indexSource = new FileInputStream("kittu.txt");
+				} catch (FileNotFoundException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+     		    try {
+					w.restore(indexSource);
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					System.out.println(e.toString());
+				}
+            	String text = ta.getText();
+            	v.addElement(text);
+        		
+        		ObjectIterator<?> i= w.retrievePages(new ObjectIterator<String>(v));
+        		
+        		if(i!=null)
+        		{
+        			////////////////////////////////////////////////////////////////////
+        		    //  Write your Code here as part of Sorting based on Rank Assignment
+        		    //  
+        		    ///////////////////////////////////////////////////////////////////
+        			while(i.hasNext())
+        				tf.append(""+i.next()+"\n");
+        			//System.out.println("Search complete.");
+        			//System.out.println("---------------\n");
+        		}
+        		else
+        		{
+        			System.out.println("Search complete.  0  hits found.");
+        		}
+			}});
+        frame.pack();
+        frame.setVisible(true);
+        
+        /*if(args.length<3)
+        	System.out.println("Usage: java SearchDriver indexfile list|hash keyword1 [keyword2] [keyword3] [...]");
+        else
+	    {
+        	Indexer w = null;
+        	if(args[1].equalsIgnoreCase("list") || args[1].equals("hash") || args[1].equals("myhash") || args[1].equals("bst") 
+				|| args[1].equals("avl")){
+        		w = new Indexer("hash");
+		}
+		else
+		{
+			System.out.println("Invalid Indexer mode \n");
+		}
+		
+		try{
+		    FileInputStream indexSource=new FileInputStream("url.txt");
+		    w.restore(indexSource);
+		}
+		catch(IOException e){
+		    System.out.println(e.toString());
+		}
+		
+		for(int i=2;i<args.length;i++)
+		    v.addElement(args[i]);
+		
+		ObjectIterator<?> i= w.retrievePages(new ObjectIterator<String>(v));
+		
+		if(i!=null)
+		{
+			////////////////////////////////////////////////////////////////////
+		    //  Write your Code here as part of Sorting based on Rank Assignment
+		    //  
+		    ///////////////////////////////////////////////////////////////////
+			while(i.hasNext())
+				System.out.println(i.next());
+			System.out.println("Search complete.");
+			System.out.println("---------------\n");
+		}
+		else
+		{
+			System.out.println("Search complete.  0  hits found.");
+		}
+	    }*/
+    }
+}

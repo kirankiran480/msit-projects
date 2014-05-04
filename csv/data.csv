@@ -1,0 +1,2 @@
+CompanyName,CompanyNumber,ClientName,ClientFirstName,ClientLastName,ClientId,ClientGroupId,Logon,LogonPW,PublishKey,HiddenKey,PublishEncryptMode,LanFolderId,StaffId
+MLBInc,,Art Walk,mj,Art Walk,12,1,artwalk,artwalk,art1publishkey,art1workkey,1,12345678,1

@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>time</title>
+</head>
+<body>
+	<script src="jquery.min.js" type="application/javascript" ></script>
+	<script>
+		$(document).ready(function()
+		{
+			var now = new Date();
+			var dayofweek = now.getUTCDay();
+			var hours = now.getUTCHours();
+		
+		    $("#datedisplay").text(now.toUTCString().replace(/\s*(GMT|UTC)$/, ""));
+			if(dayofweek == 0 || dayofweek == 6) 
+			{
+alert("It is currently outside office hours");
+}
+ else if(hours < 7 || hours > 17) {
+alert("It is currently outside office hours");
+}
+});
+		
+	</script>
+	
+	<div id="datedisplay"></div>
+</body>
+</html>

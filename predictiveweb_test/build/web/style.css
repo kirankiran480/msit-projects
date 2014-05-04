@@ -1,0 +1,201 @@
+@import url("reset.css");
+
+body
+{
+	background: #111 url("bvb.jpg") repeat;
+	color: whitesmoke;
+	font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 20px 0;
+	/*text-emphasis-color: whitesmoke */
+	text-shadow: #000 1px 1px 4px;
+}
+
+/** Misc Styles **/
+
+a { color: #F90; text-decoration: none; }
+a:hover { color: #FFF; }
+
+/** Main Styles **/
+
+#container
+{
+	margin: 0 auto;
+	width: 1040px;
+	padding: 20px 0;
+	background: url("bg-container.png") repeat;
+	
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	/**border-radius: 10px; **/
+}
+
+	#container #menucont
+	{
+		margin: 0 auto;
+		width: 700px;
+		padding: 20px 0 10px 0;
+		font-size:11px;
+		border-bottom: 1px dashed #333;
+	}
+	
+		#container #menucont ul
+		{
+			float: left;
+			height: 40px;
+		}
+		
+		#container #menucont ul li
+		{
+			float: left;
+			display: block;
+		}
+		
+		#container #menucont ul li a
+		{
+			float: left;
+			display: block;
+			color: #FFF;
+			background: transparent;
+			padding: 0 25px;
+			line-height: 40px;
+			text-decoration: none;
+			text-transform: uppercase;
+			font-family: "Francois One", Arial, Helvetica, sans-serif;
+		}
+		
+		#container #menucont ul ul li a
+		{ 
+			float: none; 
+			width: 160px;
+			padding: 10px 20px;
+			border: 0;
+			line-height: 14px;
+			font-weight: normal;
+		}
+
+		#container #menucont ul li a:hover, #container #menucont ul li.sfHover a, #container #menucont ul ul a
+		{
+			color: #FFF;
+			background: #E18700;
+		}
+		
+		#container #menucont ul li li a:hover, #container #menucont ul li.sfHover li a:hover
+		{
+			color: #FFF;
+			background: #F90;
+		}
+		
+		/*** Start SuckerFish Styles ***/
+		
+			.sf-menu, .sf-menu * { margin: 0; padding: 0; list-style:	none; }
+			.sf-menu { line-height:	1.0; }
+			.sf-menu ul { position: absolute; top: -999em; width: 200px; margin-top: 0; padding-top: 0; }
+			.sf-menu ul li { width:	100%; }
+			.sf-menu li:hover { visibility: inherit; }
+			.sf-menu li { float: left; position: relative; }
+			.sf-menu a { display: block; position: relative; }
+			.sf-menu li:hover ul, .sf-menu li.sfHover ul { left: 0; top: 40px; z-index: 99; }
+			ul.sf-menu li:hover li ul, ul.sf-menu li.sfHover li ul { top: -999em; }
+			ul.sf-menu li li:hover ul, ul.sf-menu li li.sfHover ul { left: 200px; top: 0; }
+			ul.sf-menu li li:hover li ul, ul.sf-menu li li.sfHover li ul { top: -999em; }
+			ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 10em; top: 0; }		
+		
+		/** End SuckerFish Styles **/
+		
+	#container #headercont
+	{
+		margin: 0 auto;
+		width: 650px;
+		/**padding: 30px 0 20px 0; **/
+		color: #666;
+		line-height: 18px;
+        
+	}
+	
+		#container #headercont h1
+		{
+			margin: 0 0 20px 0;
+			font-family: "Francois One", Arial, Helvetica, sans-serif;
+			font-size: 36px;
+			letter-spacing: -1px;
+			font-weight: normal;
+		}
+	
+	#container #gallerycont
+	{
+		margin: 0 auto;
+		width: 750px;
+		height: 200px;
+		
+		-moz-box-shadow: 0 0 5px #000;
+		-webkit-box-shadow: 0 0 5px #000;
+		box-shadow: 0 0 5px #000;
+	}
+	
+	/*** Fading Gallery Styles **/
+	
+		#container #gallerycont #slideshow
+		{
+			position: relative;
+			width: 750px;
+			height: 200px;
+		}
+		
+		#container #gallerycont #slideshow img
+		{
+			position:absolute;
+			top:0;
+			left:0;
+			z-index:8;
+			opacity:0.0;
+			
+			-webkit-border-radius: 5px;
+			-moz-border-radius: 5px;
+			border-radius: 5px;
+		}
+		
+		#container #gallerycont #slideshow img.active
+		{
+			z-index:10;
+			opacity:1.0;
+		}
+		
+		#container #gallerycont #slideshow img.last-active
+		{
+			z-index:9;
+		}
+	
+	/** End Fading Gallery Styles **/
+	
+#container #maincont
+{
+	margin: 0 auto;
+	width: 650px;
+	padding: 20px 0 0 0;
+	line-height: 20px;
+	background: url("../images/bg-maincont.png") repeat-y;
+}
+
+	#maincont p { margin: 0 0 15px 0; }
+	#maincont h1, #maincont h2, #maincont h3, #maincont h4, #maincont h5 { margin: 0 0 15px 0; font-weight: normal; color: #FFF; letter-spacing: -1px; font-family: "Francois One", Arial, Helvetica, sans-serif; }
+	#maincont h1 { font-size: 29px; }
+	#maincont h2 { font-size: 27px; }
+	#maincont h3 { font-size: 27px; }
+	#maincont h4 { font-size: 25px; }
+	#maincont h5 { font-size: 25px; }
+	#maincont ul { margin: 0 0 15px 35px; list-style-type: square; }
+	#maincont ul li { padding: 0 0 0 2px; }
+	#maincont ol { margin: 0 0 15px 35px; list-style-type: decimal; }
+	#maincont ol li { padding: 0 0 0 2px; }
+	#maincont blockquote { background: #121212; border-left: 3px solid #E18700; padding: 15px; margin: 0 0 15px 0; font-style: italic; line-height: 18px; }
+
+#container #footercont
+{
+	margin: 0 auto;
+	width: 650px;
+	font-size: 11px;
+	padding: 20px 25px;
+	text-align: right;
+	border-top: 1px dashed #333;
+}

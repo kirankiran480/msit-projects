@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/minigoogle/src/searchengine/spider/CrawlerDriver.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="searchengine.spider.CrawlerDriver"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="https://news.google.co.in/nwshp?hl=en&amp;tab=wn%2Fjavascript%3Avoid(0)&amp;ar=1349027580 kiran.txt hash 10"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="minigoogle"/>
+</launchConfiguration>

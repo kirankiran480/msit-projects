@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+		  android:background="@color/background"
+		  android:orientation="vertical"
+		  android:layout_width="match_parent"
+		  android:layout_height="match_parent"
+		  >
+        
+	    <TextView
+	    	android:id="@+id/image_selection_prompt"
+	    	android:layout_width="match_parent"
+	    	android:layout_height="wrap_content"
+	    	android:gravity="center_horizontal|bottom"
+	    	android:textSize="16dp"
+			android:background="@color/prompt_background"
+			android:textColor="@color/prompt"
+			android:typeface="sans"
+	    	/>
+	
+	    <GridView android:layout_width="match_parent"
+	    	android:layout_height="wrap_content"
+	    	android:layout_margin="5dp"
+	    	android:id="@+id/image_selection_grid"
+			android:columnWidth="140dp"
+			android:numColumns="auto_fit"
+			android:verticalSpacing="10dp"
+			android:horizontalSpacing="10dp"
+			android:gravity="center"
+	    	android:stretchMode="columnWidth"
+	    	/>
+	
+	    
+	    <TextView
+	    	android:id="@+id/image_selection_prompt_comment"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@color/prompt_background"
+	        android:gravity="center_horizontal|top"
+	        android:text="@string/image_prompt_comment"
+	        android:textColor="@color/prompt"
+	        android:textSize="12dp"
+	        android:textStyle="italic"
+	        android:typeface="serif"
+	        />
+	
+	</LinearLayout>

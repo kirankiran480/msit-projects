@@ -1,0 +1,39 @@
+Online ENB Tool. JayaChandra_Team3.
+
+NOTE
+------
+-  This software works online and does not require you to download any  additional software. Do not download any malicious software.
+
+-  Do not disclose your password with anyone. Any changes in the data in  your file is solely done by the user and we are not responsible of any       changes in your data done when you are logged in.
+
+-  Our logs save the time you spend on the software.
+
+
+GENERAL USAGE NOTES
+---------------------
+
+-  If you are a NEW USER, go to the 'SIGN UP' page and enter your details. Kindly enter your details correctly as your details cannot be changed as     only your password can be changed other details are fixed. If you wish to    change your email-id kindly contact support.
+
+-  If you are an EXISTING USER, go to the 'LOGIN PAGE' and enter your  username and password.
+
+-  Once Logged in the user is allowed to create, edit or delete an ENB and  all changes made are subject to his choice.
+
+
+
+
+===========================================================================
+
+
+For support Contact:
+----------------------
+G.v.s.Kiran                        -201285088
+K.Mahesh                         -201285092
+M.Vamsi Krishna             -201285094
+T.Naga Pavan                  -201285099
+
+
+
+
+
+Copyright 2013 JayaChandra_Team3. All rights reserved.
+The software and its use are subject to license agreement and are also subject to copyright.

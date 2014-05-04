@@ -1,0 +1,917 @@
+
+ 
+ Date: 2013/03/04 00:26:03
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/04 00:49:19
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/05/02 13:30:49
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/05/02 13:33:23
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/05/02 13:43:25
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/05/02 13:46:13
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/05/02 13:47:37
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/05/02 16:06:44
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/05/02 16:08:34
+The total number of samples tested is 16532
+Number of correct predictions is 16427
+Number of wrong predictions is 105
+The error rate is 0.635131865473022
+
+ 
+ Date: 2013/05/02 16:38:04
+The total number of samples tested is 16532
+Number of correct predictions is 16427
+Number of wrong predictions is 105
+The error rate is 0.635131865473022
+
+ 
+ Date: 2013/05/02 16:50:25
+The total number of samples tested is 16532
+Number of correct predictions is 16427
+Number of wrong predictions is 105
+The error rate is 0.635131865473022
+
+ 
+ Date: 2013/03/04 20:19:44
+The total number of samples tested is 16532
+Number of correct predictions is 16427
+Number of wrong predictions is 105
+The error rate is 0.635131865473022
+
+ 
+ Date: 2013/03/04 21:45:11
+The total number of samples tested is 16532
+Number of correct predictions is 16427
+Number of wrong predictions is 105
+The error rate is 0.635131865473022
+
+ 
+ Date: 2013/03/04 21:47:36
+The total number of samples tested is 16532
+Number of correct predictions is 16427
+Number of wrong predictions is 105
+The error rate is 0.635131865473022
+
+ 
+ Date: 2013/03/04 21:53:49
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 16:26:16
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 21:32:29
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 21:34:21
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 21:41:05
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 21:43:34
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 21:55:58
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:08:00
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:09:16
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:10:09
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:10:53
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:11:29
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:12:09
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:12:56
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/05 22:18:00
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/06 00:03:09
+The total number of samples tested is 16532
+Number of correct predictions is 16434
+Number of wrong predictions is 98
+The error rate is 0.592789741108154
+
+ 
+ Date: 2013/03/06 00:04:56
+The total number of samples tested is 16532
+Number of correct predictions is 16434
+Number of wrong predictions is 98
+The error rate is 0.592789741108154
+
+ 
+ Date: 2013/03/06 00:07:23
+The total number of samples tested is 9018
+Number of correct predictions is 8994
+Number of wrong predictions is 24
+The error rate is 0.2661343978709248
+
+ 
+ Date: 2013/03/06 00:12:39
+The total number of samples tested is 9018
+Number of correct predictions is 8994
+Number of wrong predictions is 24
+The error rate is 0.2661343978709248
+
+ 
+ Date: 2013/03/06 00:14:29
+The total number of samples tested is 3308
+Number of correct predictions is 3306
+Number of wrong predictions is 2
+The error rate is 0.06045949214026602
+
+ 
+ Date: 2013/03/06 00:15:21
+The total number of samples tested is 9018
+Number of correct predictions is 8994
+Number of wrong predictions is 24
+The error rate is 0.2661343978709248
+
+ 
+ Date: 2013/03/06 00:20:23
+The total number of samples tested is 12326
+Number of correct predictions is 12303
+Number of wrong predictions is 23
+The error rate is 0.1865974363134837
+
+ 
+ Date: 2013/03/06 13:03:58
+The total number of samples tested is 12326
+Number of correct predictions is 12303
+Number of wrong predictions is 23
+The error rate is 0.1865974363134837
+
+ 
+ Date: 2013/03/06 13:37:50
+The total number of samples tested is 12326
+Number of correct predictions is 6516
+Number of wrong predictions is 5810
+The error rate is 47.136134999188705
+
+ 
+ Date: 2013/03/06 13:44:48
+The total number of samples tested is 12326
+Number of correct predictions is 10839
+Number of wrong predictions is 1487
+The error rate is 12.063929904267402
+
+ 
+ Date: 2013/03/06 13:45:38
+The total number of samples tested is 12326
+Number of correct predictions is 10839
+Number of wrong predictions is 1487
+The error rate is 12.063929904267402
+
+ 
+ Date: 2013/03/06 13:48:39
+The total number of samples tested is 12326
+Number of correct predictions is 10194
+Number of wrong predictions is 2132
+The error rate is 17.296771053058578
+
+ 
+ Date: 2013/05/04 17:49:40
+The total number of samples tested is 13224
+Number of correct predictions is 10887
+Number of wrong predictions is 2337
+The error rate is 17.67241379310345
+
+ 
+ Date: 2013/03/06 22:45:30
+The total number of samples tested is 13224
+Number of correct predictions is 13196
+Number of wrong predictions is 28
+The error rate is 0.21173623714458562
+
+ 
+ Date: 2013/03/06 22:48:22
+The total number of samples tested is 13224
+Number of correct predictions is 13196
+Number of wrong predictions is 28
+The error rate is 0.21173623714458562
+
+ 
+ Date: 2013/03/06 22:55:51
+The total number of samples tested is 14999
+Number of correct predictions is 14967
+Number of wrong predictions is 32
+The error rate is 0.2133475565037669
+
+ 
+ Date: 2013/03/06 22:57:41
+The total number of samples tested is 14999
+Number of correct predictions is 14967
+Number of wrong predictions is 32
+The error rate is 0.2133475565037669
+
+ 
+ Date: 2013/03/06 23:08:56
+The total number of samples tested is 15999
+Number of correct predictions is 15959
+Number of wrong predictions is 40
+The error rate is 0.2500156259766235
+
+ 
+ Date: 2013/03/06 23:16:23
+The total number of samples tested is 15999
+Number of correct predictions is 14924
+Number of wrong predictions is 1075
+The error rate is 6.719169948121757
+
+ 
+ Date: 2013/03/06 23:18:37
+The total number of samples tested is 15999
+Number of correct predictions is 14924
+Number of wrong predictions is 1075
+The error rate is 6.719169948121757
+
+ 
+ Date: 2013/03/06 23:19:57
+The total number of samples tested is 15999
+Number of correct predictions is 14924
+Number of wrong predictions is 1075
+The error rate is 6.719169948121757
+
+ 
+ Date: 2013/03/06 23:25:10
+The total number of samples tested is 15999
+Number of correct predictions is 15013
+Number of wrong predictions is 986
+The error rate is 6.16288518032377
+
+ 
+ Date: 2013/03/06 23:29:05
+The total number of samples tested is 12999
+Number of correct predictions is 12986
+Number of wrong predictions is 13
+The error rate is 0.10000769289945381
+
+ 
+ Date: 2013/03/06 23:34:16
+The total number of samples tested is 12999
+Number of correct predictions is 12994
+Number of wrong predictions is 5
+The error rate is 0.038464497269020695
+
+ 
+ Date: 2013/03/06 23:35:26
+The total number of samples tested is 12999
+Number of correct predictions is 12994
+Number of wrong predictions is 5
+The error rate is 0.038464497269020695
+
+ 
+ Date: 2013/03/06 23:37:15
+The total number of samples tested is 12999
+Number of correct predictions is 12999
+Number of wrong predictions is 0
+The error rate is 0.0
+
+ 
+ Date: 2013/03/06 23:43:57
+The total number of samples tested is 12999
+Number of correct predictions is 12994
+Number of wrong predictions is 5
+The error rate is 0.038464497269020695
+
+ 
+ Date: 2013/03/06 23:46:03
+The total number of samples tested is 12999
+Number of correct predictions is 12994
+Number of wrong predictions is 5
+The error rate is 0.038464497269020695
+
+ 
+ Date: 2013/03/06 23:46:33
+The total number of samples tested is 12999
+Number of correct predictions is 12994
+Number of wrong predictions is 5
+The error rate is 0.038464497269020695
+
+ 
+ Date: 2013/03/06 23:55:01
+The total number of samples tested is 12999
+Number of correct predictions is 12938
+Number of wrong predictions is 61
+The error rate is 0.4692668666820525
+
+ 
+ Date: 2013/03/07 11:25:49
+The total number of samples tested is 16531
+Number of correct predictions is 16426
+Number of wrong predictions is 105
+The error rate is 0.6351702861290909
+
+ 
+ Date: 2013/03/07 12:32:02
+The total number of samples tested is 16531
+Number of correct predictions is 16426
+Number of wrong predictions is 105
+The error rate is 0.6351702861290909
+
+ 
+ Date: 2013/03/07 12:42:07
+The total number of samples tested is 16531
+Number of correct predictions is 16426
+Number of wrong predictions is 105
+The error rate is 0.6351702861290909
+
+ 
+ Date: 2013/03/07 12:42:59
+The total number of samples tested is 16531
+Number of correct predictions is 16426
+Number of wrong predictions is 105
+The error rate is 0.6351702861290909
+
+ 
+ Date: 2013/03/07 13:32:51
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/07 13:39:08
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/03/07 13:41:01
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/03/07 13:51:04
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/07 13:55:45
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/07 15:07:50
+The total number of samples tested is 16532
+Number of correct predictions is 16488
+Number of wrong predictions is 44
+The error rate is 0.26615049600774254
+
+ 
+ Date: 2013/03/07 15:14:34
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/03/07 15:21:53
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/03/07 15:22:42
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/05/05 15:58:23
+The total number of samples tested is 13225
+Number of correct predictions is 13187
+Number of wrong predictions is 38
+The error rate is 0.28733459357277885
+
+ 
+ Date: 2013/05/05 16:05:16
+The total number of samples tested is 13225
+Number of correct predictions is 13187
+Number of wrong predictions is 38
+The error rate is 0.28733459357277885
+
+ 
+ Date: 2013/05/05 16:07:24
+The total number of samples tested is 13225
+Number of correct predictions is 13187
+Number of wrong predictions is 38
+The error rate is 0.28733459357277885
+
+ 
+ Date: 2013/05/05 16:14:04
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/05/05 16:15:24
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/05/05 16:18:53
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/05/05 16:20:15
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/05/05 16:25:25
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/05/05 16:25:59
+The total number of samples tested is 13225
+Number of correct predictions is 13192
+Number of wrong predictions is 33
+The error rate is 0.24952741020793953
+
+ 
+ Date: 2013/03/07 16:29:50
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 16:30:30
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 16:34:55
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 16:45:12
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 16:50:58
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 16:54:00
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:10:46
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:11:16
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:13:05
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:15:09
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:15:32
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:17:46
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:19:34
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:21:35
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:23:49
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:26:17
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:29:13
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:30:00
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:31:55
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:35:24
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:38:32
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:39:30
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:40:12
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:41:42
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:42:12
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/07 17:44:16
+The total number of samples tested is 3307
+Number of correct predictions is 1812
+Number of wrong predictions is 1495
+The error rate is 45.20713637738131
+
+ 
+ Date: 2013/03/08 11:51:29
+The total number of samples tested is 3305
+Number of correct predictions is 1749
+Number of wrong predictions is 1556
+The error rate is 47.08018154311649
+
+ 
+ Date: 2013/03/08 11:51:55
+The total number of samples tested is 3305
+Number of correct predictions is 1749
+Number of wrong predictions is 1556
+The error rate is 47.08018154311649
+
+ 
+ Date: 2013/03/08 11:56:11
+The total number of samples tested is 3305
+Number of correct predictions is 1749
+Number of wrong predictions is 1556
+The error rate is 47.08018154311649
+
+ 
+ Date: 2013/03/08 11:57:32
+The total number of samples tested is 3305
+Number of correct predictions is 1749
+Number of wrong predictions is 1556
+The error rate is 47.08018154311649
+
+ 
+ Date: 2013/03/08 11:58:20
+The total number of samples tested is 3305
+Number of correct predictions is 1749
+Number of wrong predictions is 1556
+The error rate is 47.08018154311649
+
+ 
+ Date: 2013/03/08 12:00:00
+The total number of samples tested is 3305
+Number of correct predictions is 1749
+Number of wrong predictions is 1556
+The error rate is 47.08018154311649
+
+ 
+ Date: 2013/03/08 12:01:30
+The total number of samples tested is 3305
+Number of correct predictions is 1749
+Number of wrong predictions is 1556
+The error rate is 47.08018154311649
+
+ 
+ Date: 2013/03/20 16:39:59
+The total number of samples tested is 3307
+Number of correct predictions is 1831
+Number of wrong predictions is 1476
+The error rate is 44.63259752041125
+
+ 
+ Date: 2013/03/20 16:40:35
+The total number of samples tested is 3307
+Number of correct predictions is 1831
+Number of wrong predictions is 1476
+The error rate is 44.63259752041125
+
+ 
+ Date: 2013/03/21 17:18:15
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/21 17:22:58
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/21 17:23:36
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/21 17:24:09
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:33:21
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:34:03
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:34:13
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:38:46
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:42:10
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:45:18
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:48:08
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:50:53
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/03/22 12:54:04
+The total number of samples tested is 3307
+Number of correct predictions is 1817
+Number of wrong predictions is 1490
+The error rate is 45.055941941336556
+
+ 
+ Date: 2013/05/03 15:26:08
+The total number of samples tested is 3307
+Number of correct predictions is 1853
+Number of wrong predictions is 1454
+The error rate is 43.96734200181434
+
+ 
+ Date: 2013/05/23 00:25:32
+The total number of samples tested is 3079
+Number of correct predictions is 2107
+Number of wrong predictions is 972
+The error rate is 31.5686911334849
